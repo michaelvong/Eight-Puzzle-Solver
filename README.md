@@ -5,3 +5,6 @@ The objective is to move to squares around into different positions and having t
 The goal state for this application is:
 
 ![puzzle](https://github.com/michaelvong/Eight-Puzzle-Solver/assets/72327548/f23a7260-61e8-4999-8dd4-62efda1b689c)
+
+In this program, users can input their own puzzle or choose a default pre set puzzle to solve. Users can also
+choose the type of search and heuristic to use in the search.
